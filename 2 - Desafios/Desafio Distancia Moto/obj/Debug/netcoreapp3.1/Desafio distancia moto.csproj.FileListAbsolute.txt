@@ -1,0 +1,13 @@
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.exe
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.deps.json
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.runtimeconfig.json
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.runtimeconfig.dev.json
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.dll
+C:\Workspace\Desafios\Desafio distancia moto\bin\Debug\netcoreapp3.1\Desafio distancia moto.pdb
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.csprojAssemblyReference.cache
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.AssemblyInfoInputs.cache
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.AssemblyInfo.cs
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.dll
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.pdb
+C:\Workspace\Desafios\Desafio distancia moto\obj\Debug\netcoreapp3.1\Desafio distancia moto.genruntimeconfig.cache

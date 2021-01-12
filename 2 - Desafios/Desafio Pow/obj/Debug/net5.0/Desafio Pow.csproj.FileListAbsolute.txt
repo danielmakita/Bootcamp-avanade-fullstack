@@ -1,0 +1,16 @@
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.csprojAssemblyReference.cache
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.AssemblyInfoInputs.cache
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.AssemblyInfo.cs
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.exe
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.deps.json
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.runtimeconfig.json
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.runtimeconfig.dev.json
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.dll
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\ref\Desafio Pow.dll
+C:\Workspace\Desafios\Desafio Pow\bin\Debug\net5.0\Desafio Pow.pdb
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.dll
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\ref\Desafio Pow.dll
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.pdb
+C:\Workspace\Desafios\Desafio Pow\obj\Debug\net5.0\Desafio Pow.genruntimeconfig.cache

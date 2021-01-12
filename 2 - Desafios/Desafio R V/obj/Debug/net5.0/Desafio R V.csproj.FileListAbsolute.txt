@@ -1,0 +1,16 @@
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.exe
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.deps.json
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.runtimeconfig.json
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.runtimeconfig.dev.json
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.dll
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\ref\Desafio R V.dll
+C:\Workspace\Desafios\Desafio R V\bin\Debug\net5.0\Desafio R V.pdb
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.csprojAssemblyReference.cache
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.AssemblyInfoInputs.cache
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.AssemblyInfo.cs
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.dll
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\ref\Desafio R V.dll
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.pdb
+C:\Workspace\Desafios\Desafio R V\obj\Debug\net5.0\Desafio R V.genruntimeconfig.cache

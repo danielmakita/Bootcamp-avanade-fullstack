@@ -1,0 +1,16 @@
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.csprojAssemblyReference.cache
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.AssemblyInfoInputs.cache
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.AssemblyInfo.cs
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.exe
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.deps.json
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.runtimeconfig.json
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.runtimeconfig.dev.json
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.dll
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\ref\Desafio Media.dll
+C:\Workspace\Desafios\Desafio Media\bin\Debug\net5.0\Desafio Media.pdb
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.dll
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\ref\Desafio Media.dll
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.pdb
+C:\Workspace\Desafios\Desafio Media\obj\Debug\net5.0\Desafio Media.genruntimeconfig.cache

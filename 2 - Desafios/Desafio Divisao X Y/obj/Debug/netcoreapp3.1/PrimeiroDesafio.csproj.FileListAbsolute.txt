@@ -1,0 +1,13 @@
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.exe
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.deps.json
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.runtimeconfig.json
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.runtimeconfig.dev.json
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.dll
+C:\Workspace\PrimeiroDesafio\bin\Debug\netcoreapp3.1\PrimeiroDesafio.pdb
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.csprojAssemblyReference.cache
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.AssemblyInfoInputs.cache
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.AssemblyInfo.cs
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.csproj.CoreCompileInputs.cache
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.dll
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.pdb
+C:\Workspace\PrimeiroDesafio\obj\Debug\netcoreapp3.1\PrimeiroDesafio.genruntimeconfig.cache

@@ -1,0 +1,142 @@
+<<<<<<< HEAD
+body{
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title{
+    color: #505050;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.photo{
+    border-radius: 50%;
+    border: 1px #505050;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+}
+
+.post{
+    background: #ffffff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Verdana;
+    font-style: normal;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+=======
+body{
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, .subtitle, .post_title{
+    color: #505050;
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.photo{
+    border-radius: 50%;
+    border: 1px #505050;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+
+a{
+    text-decoration: underline;
+    color: blue;
+}
+
+.post{
+    background: #ffffff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Verdana;
+    font-style: normal;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+>>>>>>> 1b1a2c392bd2ab1a62f5531cdc6f3437d42e1072
+}
