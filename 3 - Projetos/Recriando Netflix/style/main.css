@@ -96,3 +96,14 @@ header nav a:hover{ /* Evento disparado quando o mouse está
 .filme-principal .container{
     width: 60%;
 }
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+
+.carrosel-filmes{
+    margin-top: 25px;
+}
